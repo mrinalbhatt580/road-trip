@@ -1,0 +1,40 @@
+pickup,drop,"transport(1,2)",distance,"safety(1,2,3)","network avable(0,1,2)","road_type(2,3,4,6)",via,"diversions(0,1,2,3,4,5)","traffic(0,1,2)",accident,people_travelled,Taken
+kathar,patna,1,1340,2,2,2,pumea,4,1,3,524,0
+kathar,patna,1,1397,3,2,2,semapur,,1,4,200,1
+kathar,patna,2,1367,1,0,1,dhadha,4,0,1,234,0
+kathar,patna,2,1384,3,2,2,kalyanpur,0,2,,200,1
+kathar,patna,2,1320,2,1,2,gerabari,3,2,2,100,0
+panipat,patna,1,1147,2,1,2,Agra-Lucknow,3,1,2,450,1
+panipat,patna,0,1127,1,2,3,"Yamuna Expy, ",1,2,4,200,0
+panipat,patna,2,1077,3,1,4,Purvanchal,2,1,2,450,0
+Chandigarh,New Delhi,2,260,1,2,4,Karnal,2,1,3,600,1
+Chandigarh,New Delhi,1,261,2,1,4,Ambala ,1,2,3,300,1
+Chandigarh,New Delhi,1,345,2,1,4,Panipat,3,2,1,260,1
+Bhopal,New Delhi,1,769,2,2,4,Indore,3,2,1,500,0
+Bhopal,New Delhi,2,745,1,1,6,delhi ,2,2,3,450,1
+Bhopal,New Delhi,2,886,3,3,6,Gwalior,1,1,3,200,0
+Kanpur,New Delhi,2,475,1,2,6,Yamuna,2,2,2,450,1
+Kanpur,New Delhi,1,474,2,2,6,Agra lucknow,3,2,3,500,1
+Kanpur,New Delhi,1,477,1,2,3,Lucknow,1,1,2,300,0
+Jaipur,New Delhi,2,296,2,3,3,Gurugram,1,1,1,600,0
+Jaipur,New Delhi,1,296,1,2,3,Alwar,1,0,1,460,1
+Jaipur,New Delhi,2,260,3,1,3,Sikar,2,0,3,230,1
+Bengaluru,New Delhi,1,2164,2,1,2,Bhopal,1,1,4,400,1
+Bengaluru,New Delhi,2,2209,3,0,3,Nagpur,2,2,4,500,0
+Bengaluru,New Delhi,2,2158,1,0,2,Agra,2,2,3,350,1
+Delhi,Agra,1,230,2,2,2,Noida,0,1,0,200,1
+Mumbai,Pune,2,150,3,1,3,Navi Mumbai,2,0,0,300,1
+Kolkata,Siliguri,1,600,1,0,4,Durgapur,3,2,1,450,0
+Hyderabad,Bangalore,2,570,2,2,3,Kurnool,1,0,0,320,1
+Jaipur,Udaipur,1,395,3,1,2,Nagaur,2,1,0,155,1
+Lucknow,Kanpur,2,80,2,2,4,Bijnor,0,0,0,565,1
+Lucknow,Pondicherry,1,160,3,1,3,Chennai,1,1,0,456,0
+Bangalore,Mangalore,2,350,1,0,4,Mysuru,4,2,1,656,0
+Ahmedabad,Surat,1,275,2,2,2,Vadodara,0,1,0,445,1
+Chandigarh,Shimla,2,120,3,1,3,Dehradun,2,0,0,453,1
+Mumbai,Goa,1,586,3,1,3,Navi Mumbai,2,1,1,444,1
+Delhi,Chandigarh,2,246,2,2,2,Karnal,0,0,0,343,1
+Bangalore,Hyderabad,1,570,2,2,3,Anantapur,1,0,0,565,1
+Kolkata,Bhubaneswar,2,441,1,1,4,Odissia,3,2,1,676,1
+Chennai,Tirupati,1,133,3,1,3,SriCity,1,1,0,455,1
+Pune,Mumbai,2,150,3,1,3,Nasik,2,0,0,576,1
